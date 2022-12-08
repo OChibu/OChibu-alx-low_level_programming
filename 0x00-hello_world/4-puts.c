@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -prints exactly
+ * main -Entry
  *
  * Return: always 0
  */
