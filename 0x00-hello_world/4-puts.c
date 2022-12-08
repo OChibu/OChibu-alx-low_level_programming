@@ -1,13 +1,12 @@
 #include <stdio.h>
-
 /**
- * main - program that prints exactly
+ * main -program that prints exactly
  *
  * Return: 0
-*/
+ */
+
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle");
-Return(0);
+	puts("\"Programming is like building a multilingual puzzle");
+	Return (0);
 }
-
