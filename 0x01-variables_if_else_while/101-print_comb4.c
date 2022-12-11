@@ -16,7 +16,7 @@ if (l > m && m > n)
 {
 putchar(n);
 }
-putchat(m);
+putchar(m);
 }
 putchar(l);
 }
