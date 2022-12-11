@@ -20,7 +20,7 @@ putchat(m);
 }
 putchar(l);
 }
-f(n != 55 || m != 56)
+if(n != 55 || m != 56)
 {
 putchar(',');
 }
