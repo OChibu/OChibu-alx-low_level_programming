@@ -3,11 +3,10 @@
  * main - prints _putchar
  * Is written by Ochibu
  * Return: 0
-*/
+ */
 
 int main(void)
 {
-printf("putchar");
-_putchar('\n');
+printf("putchar\n");
 return (0);
 }
