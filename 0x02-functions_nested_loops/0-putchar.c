@@ -1,10 +1,11 @@
-#include "main.h"                                                                                                               
+#include "main.h"
 /**
- *main - prints putchar
- * Is written by Ochibu
- *Return: 0
- */
-int main(void)
+ * main - prints _putchar
+ * is written by Ochibu
+ * Return: 0
+*/
+
+int main(void)
 {
 _putchar('_');
 _putchar('p');
@@ -15,5 +16,5 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
-return (0);
+return (0);
 }
