@@ -1,6 +1,6 @@
 #include "main.h"                                                                                                               
 /**
- * main - prints _putchar
+ *main - prints putchar
  * Is written by Ochibu
  *Return: 0
  */
