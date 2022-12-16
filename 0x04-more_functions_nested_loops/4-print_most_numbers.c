@@ -3,7 +3,7 @@
 /**
  * print_most_numbers - prints
  * owned by Ochibu
- * Return: void
+ * Return: 0-9, excluding 2 and 4, followed by new line
  */
 
 void print_most_numbers(void)
