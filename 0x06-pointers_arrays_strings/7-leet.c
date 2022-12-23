@@ -27,5 +27,3 @@ char *leet(char *str)
 	return (str);
 
 }
-Footer
-© 2022 Cohort_11
