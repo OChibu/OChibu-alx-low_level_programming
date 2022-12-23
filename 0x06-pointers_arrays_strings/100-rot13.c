@@ -18,8 +18,8 @@ char *rot13(char *s)
 		{
 			if (a[j] == *(s + i))
 			{
-				if (a[j] == *(s + i))
-					break;
+				*(s + i) = b[j];
+				break;
 			}
 		}
 	}
