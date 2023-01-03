@@ -2,7 +2,7 @@
 
 /**
  * _memset - function fill the first @n bytes of the memory area pointed
- *           to by @s with the constant byte @b
+ * to by @s with the constant byte @b
  * @n: bytes of the memory area pointed to by @s
  * @s: with the constant byte @b
  * @b: memory area pointer
@@ -12,12 +12,11 @@
 char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int i = 0;
-	for (; n > 0; i++)
 
+	while (i < n)
 	{
 		s[i] = b;
-		n--;
+		i++;
 	}
-
 	return (s);
 }
